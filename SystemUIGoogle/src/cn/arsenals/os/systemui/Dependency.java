@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2022 The PixelExperience Project
+ * Copyright (C) 2023 Arsenals Os
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.pixelexperience.systemui;
+package cn.arsenals.os.systemui;
 
 public class Dependency {
     public static final String OVERLAY_UI_HOST_PARENT_VIEW_GROUP = "overlay_ui_host_parent_view_group";

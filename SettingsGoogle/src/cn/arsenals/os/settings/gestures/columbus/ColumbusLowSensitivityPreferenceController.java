@@ -1,5 +1,7 @@
 /*
  * Copyright (C) 2022 The PixelExperience Project
+ * Copyright (C) 2023 Arsenals Os
+ * Copyright (C) 2023 Arsenals Os
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.pixelexperience.settings.gestures.columbus;
+package cn.arsenals.os.settings.gestures.columbus;
 
 import android.content.Context;
 import android.content.IntentFilter;
